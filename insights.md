@@ -1,12 +1,4 @@
-# Netflix User & Content Analytics (SQL)
-
-This project analyzes user behavior, engagement, content performance, and revenue drivers using a relational Netflix-style dataset.
-
-The goal is to demonstrate advanced SQL skills while generating business-relevant insights that could inform product, content, and growth decisions.
-
-**Tools**: MySQL
-
-**Concepts used**: joins, CTEs, window functions, NTILE, LAG, ROW_NUMBER, time analysis
+# Netflix User & Content Analytics Insights
 
 ## Data Model
 
