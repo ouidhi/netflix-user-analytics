@@ -12,6 +12,8 @@ business-driven questions rather than isolated queries.
 
 ## Dataset Overview
 
+**Source**: [Netflix 2025:User Behavior Dataset (210K+ Records)](https://www.kaggle.com/datasets/sayeeduddin/netflix-2025user-behavior-dataset-210k-records)  
+
 The database consists of three core tables:
 
 - users: user demographics, subscription details, lifecycle, and spend
