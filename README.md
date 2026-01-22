@@ -22,6 +22,8 @@ The database consists of three core tables:
 
 These tables are linked through foreign key relationships on user_id and movie_id.
 
+![ERD](erd.png)
+
 ## Key Business Questions
 
 This analysis focuses on answering questions such as:
